@@ -1,5 +1,3 @@
-//let calculationSteps = [, , '', 23, '-', , 12]
-
 function isSkippedValue(value) {
   return !value
 }
